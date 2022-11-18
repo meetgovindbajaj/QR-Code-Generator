@@ -1,1 +1,1 @@
-# QR-Code-Generator
+# [QR-Code-Generator](https://meetgovindbajaj.github.io/QR-Code-Generator/)
